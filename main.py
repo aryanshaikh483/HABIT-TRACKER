@@ -23,7 +23,8 @@ graph_config = {
     "name": "coding Graph",
     "unit": "Hours",
     "type": "float",
-    "color": "kuro",    
+    "color": "kuro",
+        
 }
 
 headers = {
